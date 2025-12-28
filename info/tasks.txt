@@ -6,3 +6,4 @@ Implement level 2 BG and sound, detect collision
 
 Aniket:
 Make characters bg transparent and upload it to assets/[character_name]/[character_activity].png
+bg created
